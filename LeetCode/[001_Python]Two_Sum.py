@@ -28,7 +28,7 @@ class Solution2:
     @return [index1, index2]
     """
 
-    # Brute Force
+    # One-pass Hash Table
     def twoSum(self, nums, target):
         map = {}
         for i in range(len(nums)):
