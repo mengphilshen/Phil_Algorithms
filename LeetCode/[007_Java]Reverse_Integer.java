@@ -18,7 +18,7 @@ class Solution {
         else
             return 0;
     }
-    // Time Complexity: O(n)
+    // Time Complexity: O(log10(n))
     // Space Complexity: O(1)
  
 }
